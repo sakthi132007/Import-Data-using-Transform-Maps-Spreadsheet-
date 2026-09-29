@@ -3,6 +3,11 @@ Project Overview
 
 This project demonstrates how to import external data into ServiceNow using Import Sets and Transform Maps in a ServiceNow Developer Instance.
 
+## Milestone 1 – Employee Spreadsheet
+
+![Milestone 1 Spreadsheet](milesstone1%20spreadsheet.png)
+
+
 Technologies Used
 
 ServiceNow Developer Instance
