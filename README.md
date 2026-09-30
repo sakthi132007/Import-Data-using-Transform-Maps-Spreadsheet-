@@ -8,8 +8,8 @@ This project demonstrates how to import external data into ServiceNow using Impo
 ![Milestone 1 Spreadsheet](milesstone1%20spreadsheet.png)
 
 CREATION OF TABLE 
-Other screenshots
-|
+other screen shot 
+
 Technologies Used
 
 ServiceNow Developer Instance
